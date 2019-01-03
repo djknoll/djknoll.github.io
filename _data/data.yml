@@ -1,0 +1,225 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: false # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Dominik Knoll
+    tagline: Researcher, IT Consultant, Software Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: dominik.johannes.knoll@gmail.com
+    phone: #012 345 6789
+    website: space.skoltech.ru/staff-view/dominik-knoll/ #do not add http://
+    linkedin: djknoll
+    github: djknoll
+    gitlab: #djknoll
+    bitbucket: 
+    twitter: #'@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: German
+        level: Native
+
+      - idiom: English
+        level: Professional
+
+      - idiom: Italian
+        level: Professional
+
+      - idiom: Russian
+        level: Upper Intermediate
+
+    interests:
+      - item: Intercultural Dialogue
+        link:
+
+      - item: Cycling &amp; Hiking
+        link:
+
+      - item: Cooking
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Loving to engineer my ultimate goal is to create tools that significantly improve peoples’ lives. As a Software Engineer I'm passionate about applications for team collaboration and organizational communication, keeping in mind that every technical innovation needs to account for human interaction and collaboration.
+
+      In my spare time I engage in promoting a culture of dialogue and universal fraternity.
+
+education:
+    - degree: PhD in Engineering Systems
+      university: Skoltech
+      time: 2014 - 2019
+      details: |
+        Human collaboration and tool support for Concurrent Conceptual Design and Model Based Systems Engineering.
+
+          - Research on concurrent design methodology and collaborative tool support;
+          - Managing a 15month industrial research project for a major European Aerospace company;
+          - Training in Space Systems Engineering, Entrepreneurship and Innovation;
+          - Teaching Assistant in Spacecraft and Mission Design Course, Fall 2015 & Fall 2016;
+          - Overseeing the outfitting of the concurrent design facility by external contractors;
+          - Setup the IT infrastructure and manage the operations of the concurrent design facility;
+          - Participating and conducting feasibility studies for small satellites and electrical power systems;
+          - Conduction of several High-Altitude Balloon launch campaigns with communication payloads, winning in Stanford Global Balloon Challenge in 2015;
+          - Development of a multiplatform open source data exchange tool for collaborative and concurrent design [CEDESK](https://cedesk.github.io);
+          - Collaboration in various research projects and co-authoring several publications.
+
+    - degree: MSc in Applied Computer Science
+      university: University of Salzburg
+      time: 2004 - 2007
+      details: |
+          Thesis on autonomous robotics control by neural network trained with reinforcement learning.
+
+          - Specialization natural computing (evolutionary and genetic algorithms, artificial neural networks);
+          - Participation in robotics laboratory;
+          - Passed with distinction.
+
+    - degree: BSc in Applied Computer Science
+      university: University of Salzburg
+      time: 2000 - 2003
+      details: |
+        Designing, building and programming an autonomous robotics platform.
+
+
+experiences:
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+
+          - Bullet point
+          - Bullet point
+
+    - role: Senior Software Engineer
+      time: 2014 - 2015
+      company: Google, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+
+    papers:
+      - authors: Knoll, Dominik, Clement Fortin, and Alessandro Golkar.
+        title: "Review of Concurrent Engineering Design Practice in the Space Sector: State of the Art and Future Perspectives."
+        conference: 2018 IEEE International Systems Engineering Symposium (IEEE ISSE 2018). Rome, Italy. doi:10.1109/SysEng.2018.8544387
+
+      - authors: Knoll, Dominik, Alessandro Golkar, and Olivier de Weck.
+        title: A Concurrent Design Approach for Model-Based Technology Roadmapping.
+        conference: 2018 Annual IEEE International Systems Con-ference (SysCon 2018), 1–6. Vancouver, Canada. doi:10.1109/SYSCON.2018.8369527.
+
+      - authors: Fortin, Clément, Grant McSorley, Dominik Knoll, Alessandro Golkar, and Ralina Tsykunova.
+        title: Study of Data Structures and Tools for the Concurrent Conceptual Design of Complex Space Systems.
+        conference: IFIP 14th International Conference on Product Lifecycle Management 9-12 July 2017, Seville, Spain. Seville. doi:10.1007/978-3-319-72905-3_53.
+
+      - authors: Knoll, Dominik, and Alessandro Golkar.
+        title: A Coordination Method for Concurrent Design and a Collaboration Tool for Parametric System Models.
+        conference: SECESA 2016, Madrid, 1–11. doi:10.1177/1063293X17732374.
+
+      - authors: Smirnov, Dmitry, Knoll, Dominik, and Alessandro Golkar.
+        title: Gamespace exploration approach to complex systems design.
+        conference: Conference on Systems Engineering Research (CSER 2016).
+
+      - authors: Rustam Akhtyamov, Ignasi Lluch, Cruz, Hripsime Matevosyan, Dominik Knoll, Udrivolf Pica, Marco Lisi, Alessandro Golkar.
+        title: An implementation of software defined radios for federated aerospace networks.
+        conference: (2015), doi:10.13140/RG.2.1.1816.6249
+
+      - authors: Babkina, T. S., Lukinova, E., Myagkov, M., &amp; Knoll, D.
+        title: A pocket laboratory for 2 x 2 games.
+        conference: (2015), doi:10.13140/RG.2.2.32811.44328
+
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Java Desktop &amp; Web
+        level: 90%
+
+      - name: DML, SQL, PL-SQL
+        level: 75%
+
+      - name: Javascript & Typescript
+        level: 60%
+
+      - name: HTML5 & CSS
+        level: 60%
+
+      - name: React
+        level: 50%
+
+      - name: Python, Matlab
+        level: 50%
+
+
+footer: >
+    Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
