@@ -171,19 +171,23 @@ publications:
     papers:
       - authors: Knoll, Dominik, Clement Fortin, and Alessandro Golkar.
         title: "Review of Concurrent Engineering Design Practice in the Space Sector: State of the Art and Future Perspectives."
-        conference: 2018 IEEE International Systems Engineering Symposium (IEEE ISSE 2018). Rome, Italy. doi:10.1109/SysEng.2018.8544387
+        conference: 2018 IEEE International Systems Engineering Symposium (IEEE ISSE 2018). Rome, Italy.
+        doi: 10.1109/SysEng.2018.8544387
 
       - authors: Knoll, Dominik, Alessandro Golkar, and Olivier de Weck.
         title: A Concurrent Design Approach for Model-Based Technology Roadmapping.
-        conference: 2018 Annual IEEE International Systems Con-ference (SysCon 2018), 1–6. Vancouver, Canada. doi:10.1109/SYSCON.2018.8369527.
+        conference: 2018 Annual IEEE International Systems Con-ference (SysCon 2018), 1–6. Vancouver, Canada.
+        doi: 10.1109/SYSCON.2018.8369527.
 
       - authors: Fortin, Clément, Grant McSorley, Dominik Knoll, Alessandro Golkar, and Ralina Tsykunova.
         title: Study of Data Structures and Tools for the Concurrent Conceptual Design of Complex Space Systems.
-        conference: IFIP 14th International Conference on Product Lifecycle Management 9-12 July 2017, Seville, Spain. Seville. doi:10.1007/978-3-319-72905-3_53.
+        conference: IFIP 14th International Conference on Product Lifecycle Management 9-12 July 2017, Seville, Spain.
+        doi: 10.1007/978-3-319-72905-3_53.
 
       - authors: Knoll, Dominik, and Alessandro Golkar.
         title: A Coordination Method for Concurrent Design and a Collaboration Tool for Parametric System Models.
-        conference: SECESA 2016, Madrid, 1–11. doi:10.1177/1063293X17732374.
+        conference: SECESA 2016, Madrid.
+        doi: 10.1177/1063293X17732374.
 
       - authors: Smirnov, Dmitry, Knoll, Dominik, and Alessandro Golkar.
         title: Gamespace exploration approach to complex systems design.
@@ -191,11 +195,13 @@ publications:
 
       - authors: Rustam Akhtyamov, Ignasi Lluch, Cruz, Hripsime Matevosyan, Dominik Knoll, Udrivolf Pica, Marco Lisi, Alessandro Golkar.
         title: An implementation of software defined radios for federated aerospace networks.
-        conference: (2015), doi:10.13140/RG.2.1.1816.6249
+        conference: 8th International Workshop Satellite Constellations and Formation Flying, 2015, 
+        doi: 10.1016/j.actaastro.2015.12.043
 
       - authors: Babkina, T. S., Lukinova, E., Myagkov, M., &amp; Knoll, D.
         title: A pocket laboratory for 2 x 2 games.
-        conference: (2015), doi:10.13140/RG.2.2.32811.44328
+        conference: First Lancaster Game Theory Conference, 2015, Lancaster, UK.
+        doi: 10.13140/RG.2.2.32811.44328
 
 
 skills:
