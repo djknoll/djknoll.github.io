@@ -8,13 +8,13 @@ sidebar:
 
     # Profile information
     name: Dominik Knoll
-    tagline: Researcher in Systems Engineering, Software Engineer, IT Consultant
+    tagline: Software and Systems Engineer, IT Consultant
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: dominik.johannes.knoll@gmail.com
     phone: #012 345 6789
-    website: space.skoltech.ru/staff-view/dominik-knoll/ #do not add http://
+    website: # space.skoltech.ru/staff-view/dominik-knoll/ #do not add http://
     linkedin: djknoll
     github: djknoll
     gitlab: #djknoll
@@ -37,6 +37,9 @@ sidebar:
       - idiom: Russian
         level: Upper Intermediate
 
+      - idiom: Romanian
+        level: Beginner
+
     interests:
       - item: Intercultural Dialogue
         link:
@@ -50,7 +53,10 @@ sidebar:
 career-profile:
     title: About
     summary: |
-      Loving to engineer my ultimate goal is to create tools that significantly improve peoples’ lives. As a Software Engineer I'm passionate about applications for team collaboration and organizational communication, keeping in mind that every technical innovation needs to account for human interaction and collaboration.
+      As an Engineer I love to create tools that significantly improve peoples’ lives.
+      I'm also very passionate about transmitting knowledge through teaching and mentoring.
+      As a Software Engineer I'm passionate about applications for team collaboration and organizational communication, keeping in mind that every technical innovation needs to account for human interaction and collaboration.
+      In my PhD I dug deep into Model Based System Engineering focusing on processes and  tools for concurrent conceptual design of complex systems.      
 
       In my spare time I engage in promoting a culture of dialogue and universal fraternity.
 
