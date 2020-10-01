@@ -152,7 +152,7 @@ publications:
 #      bibendum fringilla a eu lectus.
 
     papers:
-      - author: Menshenin Yaroslav, Knoll Dominik, Brovar Yana, Fortin Clément.
+      - authors: Menshenin Yaroslav, Knoll Dominik, Brovar Yana, Fortin Clément.
         title: Analysis of MBSE / PLM Integration - From Conceptual Design to Detailed Design
         conference: 17th International Conference on Product Lifecycle, 2020
 
