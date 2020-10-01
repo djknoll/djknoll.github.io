@@ -154,7 +154,7 @@ publications:
     papers:
       - authors: Menshenin Yaroslav, Knoll Dominik, Brovar Yana, Fortin Clément.
         title: Analysis of MBSE / PLM Integration - From Conceptual Design to Detailed Design
-        conference: 17th International Conference on Product Lifecycle, 2020
+        conference: 17th International Conference on Product Lifecycle, 2020. Rapperswil, Switzerland.
 
       - authors: Knoll Dominik, Fortin Clément, and Golkar Alessandro.
         title: "Review of Concurrent Engineering Design Practice in the Space Sector: State of the Art and Future Perspectives."
@@ -163,17 +163,17 @@ publications:
 
       - authors: Knoll Dominik, Golkar Alessandro, and de Weck Olivier .
         title: A Concurrent Design Approach for Model-Based Technology Roadmapping.
-        conference: 2018 Annual IEEE International Systems Con-ference (SysCon 2018), 1–6. Vancouver, Canada.
+        conference: 2018 Annual IEEE International Systems Con-ference (SysCon 2018). Vancouver, Canada.
         doi: 10.1109/SYSCON.2018.8369527
 
       - authors: Fortin Clément, McSorley Grant, Knoll Dominik, Golkar Alessandro, and Tsykunova Ralina.
         title: Study of Data Structures and Tools for the Concurrent Conceptual Design of Complex Space Systems.
-        conference: IFIP 14th International Conference on Product Lifecycle Management 9-12 July 2017, Seville, Spain.
+        conference: IFIP 14th International Conference on Product Lifecycle Management, 2017. Seville, Spain.
         doi: 10.1007/978-3-319-72905-3_53
 
       - authors: Knoll Dominik, and Golkar Alessandro.
         title: A Coordination Method for Concurrent Design and a Collaboration Tool for Parametric System Models.
-        conference: SECESA 2016, Madrid.
+        conference: SECESA 2016, Madrid, Spain.
         doi: 10.1177/1063293X17732374
 
       - authors: Smirnov Dmitry, Knoll Dominik, and Golkar Alessandro.
@@ -182,7 +182,7 @@ publications:
 
       - authors: Rustam Akhtyamov, Ignasi Lluch, Cruz, Hripsime Matevosyan, Dominik Knoll, Udrivolf Pica, Marco Lisi, Alessandro Golkar.
         title: An implementation of software defined radios for federated aerospace networks.
-        conference: 8th International Workshop Satellite Constellations and Formation Flying, 2015, 
+        conference: 8th International Workshop Satellite Constellations and Formation Flying, 2015. 
         doi: 10.1016/j.actaastro.2015.12.043
 
       - authors: Babkina, T. S., Lukinova, E., Myagkov, M., &amp; Knoll, D.
