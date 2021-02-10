@@ -69,6 +69,7 @@ education:
         Human collaboration and tool support for Concurrent Conceptual Design and Model Based Systems Engineering.
 
           - Research on concurrent design methodology and collaborative tool support;
+          - Doctoral Thesis “Model-based Processes and Tools for concurrent conceptual design of space systems”;
           - Managing a 15month industrial research project for a major European Aerospace company;
           - Training in Space Systems Engineering, Entrepreneurship and Innovation;
           - Teaching Assistant in Spacecraft and Mission Design Course, Fall 2015 & Fall 2016;
@@ -156,6 +157,10 @@ publications:
         title: Analysis of MBSE / PLM Integration - From Conceptual Design to Detailed Design
         conference: 17th International Conference on Product Lifecycle, 2020. Rapperswil, Switzerland.
         doi: 10.1007/978-3-030-62807-9_47
+
+      - authors: Menshenin Yaroslav, Brovar Yana, Knoll Dominik, Crawley Edward, Fortin Clément.
+        title: Digital Engineering Information Exchange Model for Space Missions Architecture: a Case Study of a CubeSat Mission
+        conference: 71st International Astronautical Congress (IAC), 2020.
 
       - authors: Knoll Dominik, Fortin Clément, and Golkar Alessandro.
         title: "Review of Concurrent Engineering Design Practice in the Space Sector: State of the Art and Future Perspectives."
