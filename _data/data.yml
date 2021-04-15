@@ -48,7 +48,7 @@ sidebar:
       - item: Cycling &amp; Hiking
         link:
 
-      - item: Cooking
+      - item: Cooking, Gardening
         link:
 
 career-profile:
@@ -153,6 +153,11 @@ publications:
 #      bibendum fringilla a eu lectus.
 
     papers:
+      - authors: Knoll Dominik, Fortin Clement,Golkar Alessandro 
+        title: A process model for concurrent conceptual design of space systems
+        conference: Systems Engineering, 2021
+        doi: 10.1002/sys.21576
+
       - authors: Menshenin Yaroslav, Knoll Dominik, Brovar Yana, Fortin Clément.
         title: Analysis of MBSE / PLM Integration - From Conceptual Design to Detailed Design
         conference: 17th International Conference on Product Lifecycle, 2020. Rapperswil, Switzerland.
@@ -201,8 +206,11 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Java Desktop &amp; Web
+      - name: Java Desktop &amp; Web, Spring
         level: 90%
+
+      - name: Python, C++
+        level: 80%
 
       - name: DML, SQL, PL-SQL
         level: 75%
@@ -213,11 +221,9 @@ skills:
       - name: HTML5 & CSS
         level: 60%
 
-      - name: React
+      - name: React, Matlab
         level: 50%
 
-      - name: Python, Matlab, C
-        level: 50%
 
 
 footer: >
