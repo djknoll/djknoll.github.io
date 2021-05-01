@@ -55,12 +55,28 @@ sidebar:
 career-profile:
     title: About
     summary: |
-      I'm passionate about transmitting knowledge through teaching and mentoring.
-      Boing an Engineer I love to create tools that significantly improve peoples’ lives.
-      As a Software Engineer I'm passionate about applications for team collaboration and organizational communication, keeping in mind that every technical innovation needs to account for human interaction and collaboration.
-      In my PhD I dug deep into Model Based System Engineering focusing on processes and  tools for concurrent conceptual design of complex systems.      
+      I'm a teacher, engineer and researcher and active citizen eager to contribute to a better future for all mankind.
+      As a Software Engineer I'm passionate about creating tools which have a positive impact on peoples' lives.
+      As a University Lecturer I love to transmitting knowledge and mentor students in their carreer development.
+      As as Researcher I'm looking for companies with wich to collaborate on solving challenging problems.
 
-      In my spare time I engage in promoting a culture of dialogue and universal fraternity.
+      Besides that, in my spare time I engage in promoting a culture of dialogue and universal fraternity. 
+
+
+teaching:
+    title: Lecturing
+    intro: >
+      I'm currently teaching undergraduate courses in computer science in German language at the Faculy of Mathematics and Computerscience at the Babeș-Bolyai University in Cluj-Napoca/Romania.
+
+    courses:
+      - title: Formal Languages and Compilers (Atumn 2020)
+        link: "https://www.cs.ubbcluj.ro/files/orar/2020-1/disc/MLG5023.html"
+        tagline: Students learn about theoretical foundations and implementation of a compiler using Java or C++.
+
+      - title: Object Oriented Programming (Spring 2021)
+        link: "https://www.cs.ubbcluj.ro/files/orar/2020-2/disc/MLG5006.html"
+        tagline: Students learn the elementary concepts of OOP and their use in C++, including Design Patterns and Graphical User Interfaces.
+
 
 education:
     - degree: PhD in Engineering Systems
@@ -115,7 +131,6 @@ experiences:
 
           - Bullet point
           - Bullet point
-
 
 
 projects:
@@ -228,4 +243,4 @@ skills:
 
 
 footer: >
-    Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    
