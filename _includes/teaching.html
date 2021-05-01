@@ -12,20 +12,26 @@
 
   {% if teaching.intro %}
   <div class="intro">
-      <p>{{ teaching.intro }}</p>
+      <p>{{ teaching.intro | markdownify }}</p>
   </div><!--//intro-->
   {% endif %}
 
   {% for course in teaching.courses %}
     <div class="item">
 
-      <span class="project-title">
-        <a href="{{ course.link }}">{{ course.title }}</a>
-      </span>
+      <div class="project-title">
+        {{ course.title }}
+      </div>
 
-      {% if course.tagline %}
-      - <span class="project-tagline">{{ course.tagline }}</span>
+      {% if course.description %}
+      <div class="project-tagline">{{ course.description }}</div>
       {% endif %}
+
+      {% for semester in course.semesters %}
+        - <span class="project-tagline">
+          <a href="{{ semester.link }}">{{ semester.semester }}</a>
+        </span>
+      {% endfor %}
 
     </div><!--//item-->
   {% endfor %}
