@@ -73,16 +73,24 @@ teaching:
 
     courses:
       - title: Formal Languages and Compilers
-        description: Students learn about theoretical foundations and implementation of a compiler using Java or C++.
+        description: Theoretical foundations and implementation of a compiler using Java or C++.
         semesters:
           - semester: Autumn 2020
             link: "https://www.cs.ubbcluj.ro/files/orar/2020-1/disc/MLG5023.html"
+          - semester: Autumn 2021
+            link: "https://www.cs.ubbcluj.ro/files/orar/2021-1/disc/MLG5023.html"
 
       - title: Object Oriented Programming
-        description: Students learn the elementary concepts of OOP and their use in C++, including Design Patterns and Graphical User Interfaces.
+        description: Elementary concepts of OOP and their use in C++, including Design Patterns and Graphical User Interfaces.
         semesters:
           - semester: Spring 2021
             link: "https://www.cs.ubbcluj.ro/files/orar/2020-2/disc/MLG5006.html"
+
+      - title: Computer Architechture
+        description: Information representation, Processor Structure, Assembler programming.
+        semesters:
+          - semester: Autumn 2021
+            link: "https://www.cs.ubbcluj.ro/files/orar/2021-1/disc/MLG5004.html"
 
 
 education:
@@ -148,22 +156,6 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
@@ -176,53 +168,10 @@ publications:
 #      bibendum fringilla a eu lectus.
 
     papers:
-      - authors: Knoll Dominik, Fortin Clement,Golkar Alessandro 
-        title: A process model for concurrent conceptual design of space systems
-        conference: Systems Engineering, 2021
-        doi: 10.1002/sys.21576
-
-      - authors: Menshenin Yaroslav, Knoll Dominik, Brovar Yana, Fortin Clément.
-        title: Analysis of MBSE / PLM Integration - From Conceptual Design to Detailed Design
-        conference: 17th International Conference on Product Lifecycle, 2020. Rapperswil, Switzerland.
-        doi: 10.1007/978-3-030-62807-9_47
-
-      - authors: Menshenin Yaroslav, Brovar Yana, Knoll Dominik, Crawley Edward, Fortin Clément.
-        title: Digital Engineering Information Exchange Model for Space Missions Architecture - a Case Study of a CubeSat Mission
-        conference: 71st International Astronautical Congress (IAC), 2020.
-
-      - authors: Knoll Dominik, Fortin Clément, and Golkar Alessandro.
-        title: "Review of Concurrent Engineering Design Practice in the Space Sector: State of the Art and Future Perspectives."
-        conference: 2018 IEEE International Systems Engineering Symposium (IEEE ISSE 2018). Rome, Italy.
-        doi: 10.1109/SysEng.2018.8544387
-
-      - authors: Knoll Dominik, Golkar Alessandro, and de Weck Olivier .
-        title: A Concurrent Design Approach for Model-Based Technology Roadmapping.
-        conference: 2018 Annual IEEE International Systems Con-ference (SysCon 2018). Vancouver, Canada.
-        doi: 10.1109/SYSCON.2018.8369527
-
-      - authors: Fortin Clément, McSorley Grant, Knoll Dominik, Golkar Alessandro, and Tsykunova Ralina.
-        title: Study of Data Structures and Tools for the Concurrent Conceptual Design of Complex Space Systems.
-        conference: IFIP 14th International Conference on Product Lifecycle Management, 2017. Seville, Spain.
-        doi: 10.1007/978-3-319-72905-3_53
-
-      - authors: Knoll Dominik, and Golkar Alessandro.
-        title: A Coordination Method for Concurrent Design and a Collaboration Tool for Parametric System Models.
-        conference: SECESA 2016, Madrid, Spain.
-        doi: 10.1177/1063293X17732374
-
-      - authors: Smirnov Dmitry, Knoll Dominik, and Golkar Alessandro.
-        title: Gamespace exploration approach to complex systems design.
-        conference: Conference on Systems Engineering Research (CSER 2016).
-
-      - authors: Rustam Akhtyamov, Ignasi Lluch, Cruz, Hripsime Matevosyan, Dominik Knoll, Udrivolf Pica, Marco Lisi, Alessandro Golkar.
-        title: An implementation of software defined radios for federated aerospace networks.
-        conference: 8th International Workshop Satellite Constellations and Formation Flying, 2015. 
-        doi: 10.1016/j.actaastro.2015.12.043
-
-      - authors: Babkina, T. S., Lukinova, E., Myagkov, M., &amp; Knoll, D.
-        title: A pocket laboratory for 2 x 2 games.
-        conference: First Lancaster Game Theory Conference, 2015, Lancaster, UK.
-        doi: 10.13140/RG.2.2.32811.44328
+      - authors: ""
+        title: ""
+        conference: ""
+        doi: ""
 
 
 skills:
@@ -232,20 +181,23 @@ skills:
       - name: Java Desktop &amp; Web, Spring
         level: 90%
 
-      - name: Python, C++
-        level: 80%
+      - name: Assembler, C++
+        level: 60%
 
       - name: DML, SQL, PL-SQL
         level: 75%
 
-      - name: Javascript & Typescript
+      - name: Python
+        level: 70%
+
+      - name: Javascript & Typescript, React
         level: 60%
 
       - name: HTML5 & CSS
         level: 60%
 
-      - name: React, Matlab
-        level: 50%
+      - name: Matlab
+        level: 60%
 
 
 
