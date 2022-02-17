@@ -70,6 +70,7 @@ teaching:
     title: Lecturing
     intro: >
       I'm currently teaching undergraduate courses in computer science in German language at the [Faculy of Mathematics and Computerscience](https://cs.ubbcluj.ro) at the [Babeș-Bolyai University](https://www.ubbcluj.ro) in Cluj-Napoca/Romania.
+      Students can contact me via MsTeams and [email](mailto:dominik.knoll@ubbcluj.ro).
 
     courses:
       - title: Formal Languages and Compilers
@@ -85,6 +86,8 @@ teaching:
         semesters:
           - semester: Spring 2021
             link: "https://www.cs.ubbcluj.ro/files/orar/2020-2/disc/MLG5006.html"
+          - semester: Spring 2022
+            link: "https://www.cs.ubbcluj.ro/files/orar/2021-2/disc/MLG5006.html"
 
       - title: Computer Architechture
         description: Information representation, Processor Structure, Assembler programming.
