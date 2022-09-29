@@ -60,7 +60,7 @@ career-profile:
       - As a Software Engineer I'm passionate about creating tools which have a positive impact on peoples' lives.
       A tool I created as part of my PhD research is [CEDESK](https://cedesk.github.io).
       - As a University Lecturer I love to transmitting knowledge and mentor students in their carreer development (see Lecturing below).
-      - As as Researcher so far I've worked on Model-Based Systems Engineering, as seen on [Researchgate](https://www.researchgate.net/profile/Dominik_Knoll) and [GoogleScholar](https://scholar.google.com/citations?user=P7yuATMAAAAJ).
+      - As as Researcher so far I've worked on Model-Based Systems Engineering, as seen on [ResearchGate](https://www.researchgate.net/profile/Dominik_Knoll) and [GoogleScholar](https://scholar.google.com/citations?user=P7yuATMAAAAJ).
       Currently I'm looking for companies with which to collaborate on solving challenging problems.
 
       In my spare time I engage in promoting a culture of dialogue and universal fraternity with friends of the NGO [New Humanity](https://www.new-humanity.org/en/) and working together on the [United World Project](http://www.unitedworldproject.org/en/).
@@ -73,15 +73,17 @@ teaching:
       Students can contact me via MsTeams and [email](mailto:dominik.knoll@ubbcluj.ro).
 
     courses:
-      - title: Formal Languages and Compilers
+      - title: Formal Languages and Compilers, 5th semester
         description: Theoretical foundations and implementation of a compiler using Java or C++.
         semesters:
           - semester: Autumn 2020
             link: "https://www.cs.ubbcluj.ro/files/orar/2020-1/disc/MLG5023.html"
           - semester: Autumn 2021
             link: "https://www.cs.ubbcluj.ro/files/orar/2021-1/disc/MLG5023.html"
+          - semester: Autumn 2022
+            link: "https://www.cs.ubbcluj.ro/files/orar/2022-1/disc/MLG5023.html"
 
-      - title: Object Oriented Programming
+      - title: Object Oriented Programming, 2nd semester
         description: Elementary concepts of OOP and their use in C++, including Design Patterns and Graphical User Interfaces.
         semesters:
           - semester: Spring 2021
@@ -89,11 +91,13 @@ teaching:
           - semester: Spring 2022
             link: "https://www.cs.ubbcluj.ro/files/orar/2021-2/disc/MLG5006.html"
 
-      - title: Computer Architechture
+      - title: Computer Architechture, 1st semester
         description: Information representation, Processor Structure, Assembler programming.
         semesters:
           - semester: Autumn 2021
             link: "https://www.cs.ubbcluj.ro/files/orar/2021-1/disc/MLG5004.html"
+          - semester: Autumn 2022
+            link: "https://www.cs.ubbcluj.ro/files/orar/2022-1/disc/MLG5004.html"
 
 
 education:
