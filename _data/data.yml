@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Dominik Knoll
-    tagline: University Lecturer, Software and Systems Engineer, IT Consultant
+    tagline: Assistant Professor, Software and Systems Engineer, IT Consultant
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -57,10 +57,10 @@ career-profile:
     summary: |
       I'm a teacher, engineer and researcher and active citizen eager to contribute to a better future for all mankind.
 
-      - As a Software Engineer I'm passionate about creating tools which have a positive impact on peoples' lives.
+      - As a software engineer I'm passionate about creating tools which have a positive impact on peoples' lives.
       A tool I created as part of my PhD research is [CEDESK](https://cedesk.github.io).
-      - As a University Lecturer I love to transmitting knowledge and mentor students in their carreer development (see Lecturing below).
-      - As as Researcher so far I've worked on Model-Based Systems Engineering, as seen on [ResearchGate](https://www.researchgate.net/profile/Dominik_Knoll) and [GoogleScholar](https://scholar.google.com/citations?user=P7yuATMAAAAJ).
+      - As a university lecturer I love to transmitting knowledge and mentor students in their carreer development [me @ ubbcluj](https://www.cs.ubbcluj.ro/~dominik.johannes.knoll/).
+      - As as researcher so far I've worked on Model-Based Systems Engineering, as seen on [ResearchGate](https://www.researchgate.net/profile/Dominik_Knoll) and [GoogleScholar](https://scholar.google.com/citations?user=P7yuATMAAAAJ).
       Currently I'm looking for companies with which to collaborate on solving challenging problems.
 
       In my spare time I engage in promoting a culture of dialogue and universal fraternity with friends of the NGO [New Humanity](https://www.new-humanity.org/en/) and working together on the [United World Project](http://www.unitedworldproject.org/en/).
@@ -90,6 +90,8 @@ teaching:
             link: "https://www.cs.ubbcluj.ro/files/orar/2020-2/disc/MLG5006.html"
           - semester: Spring 2022
             link: "https://www.cs.ubbcluj.ro/files/orar/2021-2/disc/MLG5006.html"
+          - semester: Spring 2023
+            link: "https://www.cs.ubbcluj.ro/files/orar/2022-2/disc/MLG5006.html"
 
       - title: Computer Architechture, 1st semester
         description: Information representation, Processor Structure, Assembler programming.
@@ -195,7 +197,7 @@ skills:
         level: 75%
 
       - name: Python
-        level: 70%
+        level: 60%
 
       - name: Javascript & Typescript, React
         level: 60%
