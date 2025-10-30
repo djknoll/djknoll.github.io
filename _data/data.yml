@@ -7,8 +7,8 @@ sidebar:
     education: false # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Dominik Knoll
-    tagline: Assistant Professor, Software and Systems Engineer, IT Consultant
+    name: Dominik J. Knoll
+    tagline: Associate Professor, Software and Systems Engineer, IT Consultant
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -46,7 +46,7 @@ sidebar:
       - item: Intercultural Dialogue
         link:
 
-      - item: Cycling &amp; Hiking
+      - item: Cycling, Hiking
         link:
 
       - item: Cooking, Gardening
@@ -58,10 +58,8 @@ career-profile:
       I'm a teacher, engineer and researcher and active citizen eager to contribute to a better future for all mankind.
 
       - As a software engineer I'm passionate about creating tools which have a positive impact on peoples' lives.
-      A tool I created as part of my PhD research is [CEDESK](https://cedesk.github.io).
-      - As a university lecturer I love to transmitting knowledge and mentor students in their carreer development [me @ ubbcluj](https://www.cs.ubbcluj.ro/~dominik.johannes.knoll/).
-      - As as researcher so far I've worked on Model-Based Systems Engineering, as seen on [ResearchGate](https://www.researchgate.net/profile/Dominik_Knoll) and [GoogleScholar](https://scholar.google.com/citations?user=P7yuATMAAAAJ).
-      Currently I'm looking for companies with which to collaborate on solving challenging problems.
+      - As a university lecturer I love to transmitting knowledge and mentor students in their career development [@ HSE](https://www.hse.ru/org/persons/1097089168).
+      - As as researcher currently I'm bridging Software Engineering and Ethics in IT. In the past I've worked on Model-Based Systems Engineering.
 
       In my spare time I engage in promoting a culture of dialogue and universal fraternity with friends of the NGO [New Humanity](https://www.new-humanity.org/en/) and working together on the [United World Project](http://www.unitedworldproject.org/en/).
 
@@ -69,10 +67,15 @@ career-profile:
 teaching:
     title: Lecturing
     intro: >
-      I'm currently teaching undergraduate courses in computer science in German language at the [Faculy of Mathematics and Computerscience](https://cs.ubbcluj.ro) at the [Babeș-Bolyai University](https://www.ubbcluj.ro) in Cluj-Napoca/Romania.
-      Students can contact me via MsTeams and [email](mailto:dominik.knoll@ubbcluj.ro).
+      I've taught various subjects in Computer Science. Currently at the (Department of Business Informatics)[https://gsb.hse.ru/bi/] of the (Higher School of Economics)[https://www.hse.ru].
 
     courses:
+      - title: Machine Learning for Business Analytics
+        description: Application of machine learning techniques to business problems using Python.
+        semesters:
+          - semester: Autumn 2025
+            link: "https://www.hse.ru/ma/bigdata/courses/1048997467.html"
+
       - title: Formal Languages and Compilers, 5th semester
         description: Theoretical foundations and implementation of a compiler using Java or C++.
         semesters:
@@ -190,24 +193,20 @@ skills:
       - name: Java Desktop &amp; Web, Spring
         level: 90%
 
+      - name: Python, FastAPI, 
+        level: 90%
+
+      - name: Typescript &amp; VueJS
+        level: 70%
+
+      - name: HTML5 &amp; CSS
+        level: 70%
+
       - name: Assembler, C++
-        level: 60%
+        level: 70%
 
       - name: DML, SQL, PL-SQL
         level: 75%
-
-      - name: Python
-        level: 60%
-
-      - name: Javascript & Typescript, React
-        level: 60%
-
-      - name: HTML5 & CSS
-        level: 60%
-
-      - name: Matlab
-        level: 60%
-
 
 
 footer: >
