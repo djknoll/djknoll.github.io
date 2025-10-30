@@ -67,7 +67,7 @@ career-profile:
 teaching:
     title: Lecturing
     intro: >
-      I've taught various subjects in Computer Science. Currently at the (Department of Business Informatics)[https://gsb.hse.ru/bi/] of the (Higher School of Economics)[https://www.hse.ru].
+      I've taught various subjects in Computer Science. Currently at the [Department of Business Informatics](https://gsb.hse.ru/bi/) of the [Higher School of Economics](https://www.hse.ru).
 
     courses:
       - title: Machine Learning for Business Analytics
