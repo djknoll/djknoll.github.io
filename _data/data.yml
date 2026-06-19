@@ -1,4 +1,4 @@
-#
+  #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
@@ -58,7 +58,7 @@ career-profile:
       I'm a teacher, engineer and researcher and active citizen eager to contribute to a better future for all mankind.
 
       - As a software engineer I'm passionate about creating tools which have a positive impact on peoples' lives.
-      - As a university lecturer I love to transmitting knowledge and mentor students in their career development [@ HSE](https://www.hse.ru/en/staff/dknoll/).
+      - As a university lecturer I love transmitting knowledge and mentoring students in their career development.
       - As as researcher currently I'm bridging Software Engineering and Ethics in IT. In the past I've worked on Model-Based Systems Engineering.
 
       In my spare time I engage in promoting a culture of dialogue and universal fraternity with friends of the NGO [New Humanity](https://www.new-humanity.org/en/) and working together on the [United World Project](http://www.unitedworldproject.org/en/).
@@ -67,14 +67,20 @@ career-profile:
 teaching:
     title: Lecturing
     intro: >
-      I've taught various subjects in Computer Science. Currently at the [Department of Business Informatics](https://gsb.hse.ru/bi/) of the [Higher School of Economics](https://www.hse.ru).
+      I've taught various subjects in Computer Science, lately at the [Department of Business Informatics](https://gsb.hse.ru/bi/) of the [Higher School of Economics](https://www.hse.ru).
 
     courses:
+      - title: Agile Methodologies in IT Projects
+        description: The foundations of agile project management, and application of SCRUM and Kanban in industry practice.
+        semesters:
+          - semester: Spring 2026
+            link: "https://www.hse.ru/en/edu/courses/1048935204"
+
       - title: Machine Learning for Business Analytics
         description: Application of machine learning techniques to business problems using Python.
         semesters:
           - semester: Autumn 2025
-            link: "https://www.hse.ru/ma/bigdata/courses/1048997467.html"
+            link: "https://www.hse.ru/en/edu/courses/1048997467"
 
       - title: Formal Languages and Compilers, 5th semester
         description: Theoretical foundations and implementation of a compiler using Java or C++.
@@ -193,7 +199,7 @@ skills:
       - name: Java Desktop &amp; Web, Spring
         level: 90%
 
-      - name: Python, FastAPI, 
+      - name: Python, FastAPI, pandas, scikit-learn
         level: 90%
 
       - name: Typescript &amp; VueJS
