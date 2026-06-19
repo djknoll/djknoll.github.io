@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: dominik.johannes.knoll@gmail.com
     phone: #012 345 6789
-    website: www.hse.ru/en/staff/dknoll/ #do not add http://
+    # website: www.hse.ru/en/staff/dknoll/ #do not add http://
     researchgate: Dominik_Knoll
     linkedin: djknoll
     github: djknoll
@@ -70,19 +70,19 @@ teaching:
       I've taught various subjects in Computer Science, lately at the [Department of Business Informatics](https://gsb.hse.ru/bi/) of the [Higher School of Economics](https://www.hse.ru).
 
     courses:
-      - title: Agile Methodologies in IT Projects
+      - title: Agile Methodologies in IT Projects, 1st year MSc
         description: The foundations of agile project management, and application of SCRUM and Kanban in industry practice.
         semesters:
           - semester: Spring 2026
             link: "https://www.hse.ru/en/edu/courses/1048935204"
 
-      - title: Machine Learning for Business Analytics
+      - title: Machine Learning for Business Analytics, 2nd year MSc
         description: Application of machine learning techniques to business problems using Python.
         semesters:
           - semester: Autumn 2025
             link: "https://www.hse.ru/en/edu/courses/1048997467"
 
-      - title: Formal Languages and Compilers, 5th semester
+      - title: Formal Languages and Compilers, 3rd year BSc
         description: Theoretical foundations and implementation of a compiler using Java or C++.
         semesters:
           - semester: Autumn 2020
@@ -92,7 +92,7 @@ teaching:
           - semester: Autumn 2022
             link: "https://www.cs.ubbcluj.ro/files/orar/2022-1/disc/MLG5023.html"
 
-      - title: Object Oriented Programming, 2nd semester
+      - title: Object Oriented Programming, 1st year BSc
         description: Elementary concepts of OOP and their use in C++, including Design Patterns and Graphical User Interfaces.
         semesters:
           - semester: Spring 2021
@@ -102,7 +102,7 @@ teaching:
           - semester: Spring 2023
             link: "https://www.cs.ubbcluj.ro/files/orar/2022-2/disc/MLG5006.html"
 
-      - title: Computer Architechture, 1st semester
+      - title: Computer Architechture, 1st year BSc
         description: Information representation, Processor Structure, Assembler programming.
         semesters:
           - semester: Autumn 2021
