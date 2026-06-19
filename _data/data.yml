@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Dominik J. Knoll
     # tagline: Associate Professor, Software and Systems Engineer, IT Consultant
-    avatar: leisure-profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: leisure-profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: dominik.johannes.knoll@gmail.com
@@ -55,7 +55,7 @@ sidebar:
 career-profile:
     title: About
     summary: |
-      In general I'm eager to contribute to a better future for all mankind.
+      In general, I'm eager to contribute to a better future for all mankind.
 
       - As a software engineer I'm passionate about creating tools which have a positive impact on peoples' lives.
       - As a university lecturer I love transmitting knowledge and mentoring students in their career development.
